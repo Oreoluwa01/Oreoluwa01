@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oreoluwa01, a web developer
+- 👋 Hi, I’m @Oreoluwa01, a software developer
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning react and node
 - 💞️ I’m looking to collaborate on any web application
